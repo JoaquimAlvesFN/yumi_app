@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1, 
+        "nome": "Unhas", 
+        "tipo": "servico", 
+        "image_name": [
+            "Basicas", 
+            "Decoradas",
+            "Em Gel",
+            "Porcelana"
+        ]
+    },
+    {
+        "id": 2, 
+        "nome": "Rosto", 
+        "tipo": "servico", 
+        "image_name": [
+
+        ]
+    },
+    {
+        "id": 3, 
+        "nome": "Cabelos", 
+        "tipo": "servico", 
+        "image_name": [
+
+        ]
+    },
+    {
+        "id": 4, 
+        "nome": "Corpo", 
+        "tipo": "servico", 
+        "image_name": [
+            
+        ]
+    }
+]
